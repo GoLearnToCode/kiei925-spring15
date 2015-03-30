@@ -7,7 +7,7 @@ Before you begin, make sure that:
 - You have a Github account and have installed the Github app
 - You have Sublime Text 3 installed
 
-If you're using the same computer you used for KIEI-924, you're already set. If you have no idea what I'm talking about, check [the setup instructions for KIEI-924](http://golearntocode.com/kiei924-winter15-ev/workbook/setup).
+If you're using the same computer you used for KIEI-924, you're already set. If you have no idea what I'm talking about, check [the setup instructions for KIEI-924](http://golearntocode.com/kiei924-winter15-chi/workbook/setup).
 
 Then, follow the instructions below, based on your platform.
 
@@ -49,7 +49,7 @@ We'll use an application called RailsInstaller to install everything necessary f
 
 https://s3.amazonaws.com/railsinstaller/Windows/railsinstaller-3.1.0.exe
 
-When the install is complete, there will be a new application installed on your machine called "Command Prompt with Ruby and Rails". Run this program, and you'll be greeted with a command prompt. Enter the following commands, hitting return after each one:
+When the install is complete, there will be a new application installed on your machine called "Command Prompt with Ruby and Rails". Run this program, and you'll be greeted with a command prompt. Enter the following commands exactly as shown, hitting return after each one:
 
     gem sources -a http://rubygems.org/
     gem sources -r https://rubygems.org/
