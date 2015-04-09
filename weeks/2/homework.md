@@ -1,6 +1,4 @@
-# Due Thursday, January 22, 11:59pm
-
-### Dig Into Ruby
+# Due Thursday, April 16, 11:59pm
 
 Do the interactive Ruby tutorial at [tryruby.org](http://tryruby.org)
 
