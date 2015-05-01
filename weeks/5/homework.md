@@ -4,8 +4,15 @@
 
 Complete the following requirements for a total possible score of 10 points:
 
-1. (8 points) Complete the new/create/edit/update/destroy actions for one of the resources in your final project
-2. (2 points) Implement at least one "one-to-many" association using ```has_many``` and ```belongs_to```
+1. **Important!** Open up your config/application.rb file, and modify the section between ```class Application... end``` so that it reads like the following (there's a lot of commented-out code in there currently):
+
+```
+class Application < Rails::Application
+  config.action_controller.permit_all_parameters = true
+end
+```
+
+2. Complete the new/create/edit/update/destroy actions for one of the resources in your final project
 
 ### Next Friday (May 8) is the mid-term!
 
